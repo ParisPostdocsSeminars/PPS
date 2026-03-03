@@ -1,11 +1,14 @@
 ---
 layout: default
-title: 2025-2026 Call
+title: About
 date: 2025-06-03
 nav_order: 1
 ---
 
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
+
+## News
+- **July 2025**: Call for 2025-2026 Series is now closed.
 
 <section style="max-width: 1000px; margin: 0.5em auto; padding: 0.5em; font-family: sans-serif; position: relative;">
   <p>🧑‍🔬👩‍💻 Are you a <strong>Life Sciences postdoc</strong> affiliated with one of the <strong>13 research institutes</strong> behind the Paris Postdocs Seminars?</p>
@@ -18,10 +21,6 @@ nav_order: 1
   -->
 
   <p>This is your chance to present your work in other Parisian institutes, expand your scientific network and foster cross-institute collaborations.</p>
-
-  <p style="font-size: 1em; font-weight: bold; font-color:red">
-    Call for 2025-2026 Series is now closed.
-  </p>
 
   <!-- 
   <p>🔗 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">Register here</a></p>
