@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-date: 2025-06-03
+title: 2025-2026 Call
+date: 2026-03-03
 nav_order: 1
 ---
 
