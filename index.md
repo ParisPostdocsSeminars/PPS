@@ -11,11 +11,21 @@ nav_order: 1
   <p>🧑‍🔬👩‍💻 Are you a <strong>Life Sciences postdoc</strong> affiliated with one of the <strong>13 research institutes</strong> behind the Paris Postdocs Seminars?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
+  <!--
   <p style="font-size: 1em; font-weight: bold;">
     👉 We are looking for new speakers for our <strong>2025–2026 series</strong>!
   </p>
+  -->
 
-  <p>This is your chance to present your work in other Parisian institutes, expand your scientific network and foster cross-institute collaborat
+  <p>This is your chance to present your work in other Parisian institutes, expand your scientific network and foster cross-institute collaborations.</p>
+
+  <p style="font-size: 1em; font-weight: bold; font-color:red">
+    Call for 2025-2026 Series is now closed.
+  </p>
+
+  <!-- 
+  <p>🔗 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">Register here</a></p>
+  -->
 
 </section>
 
