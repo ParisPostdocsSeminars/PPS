@@ -8,8 +8,11 @@ nav_order: 1
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
 ## News
-- **July 2025**: Call for 2025-2026 Series is now closed.
+<section style="max-width: 1000px; margin: 0.5em auto; padding: 0.5em; font-family: sans-serif; position: relative;">
+  - **July 2025**: Call for 2025-2026 Series is now closed.
+</section>
 
+## Join the PPS Community!
 <section style="max-width: 1000px; margin: 0.5em auto; padding: 0.5em; font-family: sans-serif; position: relative;">
   <p>🧑‍🔬👩‍💻 Are you a <strong>Life Sciences postdoc</strong> affiliated with one of the <strong>13 research institutes</strong> behind the Paris Postdocs Seminars?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
