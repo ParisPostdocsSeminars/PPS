@@ -15,9 +15,8 @@ nav_order: 1
     👉 We are looking for new speakers for our <strong>2025–2026 series</strong>!
   </p>
 
-  <p>This is your chance to present your work in other Parisian institutes, expand your scientific network and foster cross-institute collaborations.</p>
+  <p>This is your chance to present your work in other Parisian institutes, expand your scientific network and foster cross-institute collaborat
 
-  <p>🔗 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">Register here</a></p>
 </section>
 
 ## Where will you present?
