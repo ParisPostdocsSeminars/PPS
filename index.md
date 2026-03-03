@@ -8,9 +8,9 @@ nav_order: 1
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
 ## News
-<section style="max-width: 1000px; margin: 0.5em auto; padding: 0.5em; font-family: sans-serif; position: relative;">
-  - **July 2025**: Call for 2025-2026 Series is now closed.
-</section>
+
+- **July 2025**: Call for 2025-2026 Series is now closed.
+
 
 ## Join the PPS Community!
 <section style="max-width: 1000px; margin: 0.5em auto; padding: 0.5em; font-family: sans-serif; position: relative;">
